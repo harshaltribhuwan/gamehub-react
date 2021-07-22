@@ -4,3 +4,4 @@ GameHub is a platform where you can get information regarding games. it has 3 se
 Technologies used: React.js, Redux.js, Styled-components, API(rawg.io).
 
 [Lets go to GameHub](https://harshaltribhuwan.github.io/gamehub-react/)
+
